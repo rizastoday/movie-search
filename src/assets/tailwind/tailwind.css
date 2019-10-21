@@ -1,0 +1,9 @@
+/* tailwind.css */
+
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+}
