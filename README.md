@@ -1,5 +1,5 @@
 # movie-search 🎞
-Simple Program to search film from omdbapi API using Vue 3.0 Composition API plugins
+Super simple Program to search film from omdbapi API using Vue 3.0 Composition API plugins
 
 # Install
 npm install
